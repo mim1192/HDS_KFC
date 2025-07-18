@@ -38,7 +38,33 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  # Shared Preferences
+  shared_preferences: ^2.2.2
+  permission_handler: ^11.3.0
 
+  # Dio for API handling
+  dio: ^5.4.2+1
+
+  # WebView for internal/external use
+  webview_flutter: ^4.5.0
+
+  # Internet connectivity check
+  connectivity_plus: ^5.0.2
+
+  # Splash screen with GIF
+  flutter_svg: ^2.0.10
+
+
+  # Google Maps
+
+  # Dropdown UI
+  dropdown_button2: ^2.3.9
+
+  # Audio from assets
+  audioplayers: ^5.2.1
+
+  # App version check
+  upgrader: ^9.0.0
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
